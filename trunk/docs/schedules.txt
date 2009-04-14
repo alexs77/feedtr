@@ -1,0 +1,15 @@
+Freq. := 5h	(dh. delay bis nächster Ausführung, bzw. delays zw. Ausführungen)
+
+lastRunTime := 10 Uhr
+nextRunTime := 15 Uhr
+curTime := 14 Uhr
+	ausführen? → Nein!
+
+lastRunTime := 10
+nextRunTime := 15
+curTime := 15
+	ausführen → Ja!
+
+→→ nextRunTime <= curTime
+
+
