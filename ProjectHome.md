@@ -1,0 +1,1 @@
+This project is to provide users an easy to use Feed (RSS, ATOM) → Twitter or ping.fm or identi.ca gateway.
